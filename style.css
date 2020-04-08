@@ -44,6 +44,11 @@
     margin-bottom: 3rem!important;
   }
 
+  .ml-5{
+    margin-left: 0!important;
+
+  }
+  
   @keyframes heartbeat {
     0% {
       transform: scale(.75);
