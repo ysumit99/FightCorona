@@ -98,3 +98,9 @@
   .help-text{
     font-weight: bolder;
   }
+
+  @media only screen and (max-width: 768px){
+    .corona_update {
+      margin-top: 37%;
+  }
+ }
